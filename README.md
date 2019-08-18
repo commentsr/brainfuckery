@@ -1,2 +1,2 @@
 # brainfuckery
-Collection of brainfuck related python scripts
+Collection of brainfuck related code
